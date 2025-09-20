@@ -61,6 +61,17 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				corporate: {
+					red: '#C41E3A',
+					gold: '#FFD700',
+					steel: '#2C3E50',
+					darkSteel: '#1A252F'
+				},
+				evraz: {
+					primary: '#C41E3A',
+					secondary: '#FFD700',
+					accent: '#2C3E50'
 				}
 			},
 			borderRadius: {
